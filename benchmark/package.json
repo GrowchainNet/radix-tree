@@ -1,0 +1,17 @@
+{
+  "name": "benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bn.js": "^4.11.8",
+    "borc": "^2.0.2",
+    "lzma": "^2.3.2",
+    "merkle-patricia-tree": "^2.2.0"
+  }
+}
